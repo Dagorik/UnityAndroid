@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:9:5-14:40
+	android:largeScreens
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:12:9-37
+	android:xlargeScreens
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:10:9-34
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:17:22-64
+application
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:21:5-63:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:23:9-42
+	android:banner
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:22:9-46
+	android:theme
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:26:9-50
+	android:isGame
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:24:9-30
+receiver#com.unity.sampleassets.OutgoingCallReceiver
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:28:19-55
+intent-filter#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:29:13-31:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:30:25-79
+activity#com.unity.sampleassets.UnityPlayerActivity
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:34:9-49:20
+	android:screenOrientation
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:39:13-57
+	android:label
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:37:13-45
+	android:launchMode
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:38:13-44
+	android:configChanges
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:36:13-194
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:35:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:40:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:43:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:44:17-86
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:44:27-83
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:46:13-48:40
+	android:value
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:48:17-37
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:47:17-57
+meta-data#unity.build-id
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:51:9-53:68
+	android:value
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:53:13-65
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:52:13-42
+meta-data#unity.splash-mode
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:55:13-45
+meta-data#unity.splash-enable
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:57:9-59:36
+	android:value
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:59:13-33
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:58:13-47
+meta-data#android.max_aspect
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:60:9-62:35
+	android:value
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:62:13-32
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:61:13-46
+uses-sdk
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:64:5-66:41
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:64:5-66:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:64:5-66:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:66:9-38
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:65:9-35
+uses-feature#0x00020000
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:68:5-54
+	android:glEsVersion
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:68:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:69:5-71:36
+	android:required
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:71:9-33
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:70:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:72:5-74:36
+	android:required
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:74:9-33
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:73:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:75:5-77:36
+	android:required
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:77:9-33
+	android:name
+		ADDED from /Users/Dagorik/Downloads/Example Project/src/main/AndroidManifest.xml:76:9-72
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6786d79e7ad04d8414e44596384a069e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cedf6b7db77b99f23f15ef744320a26a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5cd54099f0a7e05a5729d9005f019c5b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9483b60a53ff11cc2450593d75fa19c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3d994c2db053c9bdf3dc7d532fb4f18a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/52792bc1a48aa06f0958c9f48d193476/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2dce481c3b0a78a0e6c7e061726dd336/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4dad9c81c47991a2deb6d68ce34df1ed/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b8beba2004403d7eb49bbc8a59b4d048/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Dagorik/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fc89606c00fc49f2f2b087942a7eafae/AndroidManifest.xml:26:13-58

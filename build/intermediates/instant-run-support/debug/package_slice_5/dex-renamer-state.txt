@@ -1,0 +1,4 @@
+#Wed Nov 29 10:39:44 CST 2017
+base.0=/Users/Dagorik/Downloads/Example Project/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
